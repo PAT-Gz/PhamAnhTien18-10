@@ -1,0 +1,34 @@
+D:\program C#\Bai4.12\bin\Debug\net10.0-windows\BookManagement.exe
+D:\program C#\Bai4.12\bin\Debug\net10.0-windows\BookManagement.deps.json
+D:\program C#\Bai4.12\bin\Debug\net10.0-windows\BookManagement.runtimeconfig.json
+D:\program C#\Bai4.12\bin\Debug\net10.0-windows\BookManagement.dll
+D:\program C#\Bai4.12\bin\Debug\net10.0-windows\BookManagement.pdb
+D:\program C#\Bai4.12\obj\Debug\net10.0-windows\BookManagement.formBookManager.resources
+D:\program C#\Bai4.12\obj\Debug\net10.0-windows\BookManagement.csproj.GenerateResource.cache
+D:\program C#\Bai4.12\obj\Debug\net10.0-windows\BookManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\program C#\Bai4.12\obj\Debug\net10.0-windows\BookManagement.AssemblyInfoInputs.cache
+D:\program C#\Bai4.12\obj\Debug\net10.0-windows\BookManagement.AssemblyInfo.cs
+D:\program C#\Bai4.12\obj\Debug\net10.0-windows\BookManagement.csproj.CoreCompileInputs.cache
+D:\program C#\Bai4.12\obj\Debug\net10.0-windows\BookManagement.dll
+D:\program C#\Bai4.12\obj\Debug\net10.0-windows\refint\BookManagement.dll
+D:\program C#\Bai4.12\obj\Debug\net10.0-windows\BookManagement.pdb
+D:\program C#\Bai4.12\obj\Debug\net10.0-windows\BookManagement.genruntimeconfig.cache
+D:\program C#\Bai4.12\obj\Debug\net10.0-windows\ref\BookManagement.dll
+D:\program C#\Bai4.12\obj\Debug\net10.0-windows\BookMana.AEF0CC0B.Up2Date
+D:\hoctap\.net\Bai4.12\bin\Debug\net10.0-windows\BookManagement.exe
+D:\hoctap\.net\Bai4.12\bin\Debug\net10.0-windows\BookManagement.deps.json
+D:\hoctap\.net\Bai4.12\bin\Debug\net10.0-windows\BookManagement.runtimeconfig.json
+D:\hoctap\.net\Bai4.12\bin\Debug\net10.0-windows\BookManagement.dll
+D:\hoctap\.net\Bai4.12\bin\Debug\net10.0-windows\BookManagement.pdb
+D:\hoctap\.net\Bai4.12\obj\Debug\net10.0-windows\BookManagement.formBookManager.resources
+D:\hoctap\.net\Bai4.12\obj\Debug\net10.0-windows\BookManagement.csproj.GenerateResource.cache
+D:\hoctap\.net\Bai4.12\obj\Debug\net10.0-windows\BookManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoctap\.net\Bai4.12\obj\Debug\net10.0-windows\BookManagement.AssemblyInfoInputs.cache
+D:\hoctap\.net\Bai4.12\obj\Debug\net10.0-windows\BookManagement.AssemblyInfo.cs
+D:\hoctap\.net\Bai4.12\obj\Debug\net10.0-windows\BookManagement.csproj.CoreCompileInputs.cache
+D:\hoctap\.net\Bai4.12\obj\Debug\net10.0-windows\BookManagement.dll
+D:\hoctap\.net\Bai4.12\obj\Debug\net10.0-windows\refint\BookManagement.dll
+D:\hoctap\.net\Bai4.12\obj\Debug\net10.0-windows\BookManagement.pdb
+D:\hoctap\.net\Bai4.12\obj\Debug\net10.0-windows\BookManagement.genruntimeconfig.cache
+D:\hoctap\.net\Bai4.12\obj\Debug\net10.0-windows\ref\BookManagement.dll
+D:\hoctap\.net\Bai4.12\obj\Debug\net10.0-windows\BookMana.AEF0CC0B.Up2Date
